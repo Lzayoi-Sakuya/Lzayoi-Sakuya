@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lzayoi-Sakuya
+- 👋 Hi, I’m @Izayoi-Sakuya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python numpy
 
